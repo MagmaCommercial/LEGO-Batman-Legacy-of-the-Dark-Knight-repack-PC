@@ -98,10 +98,10 @@ Yes. Selective download feature is available during setup.
 <details>
 <summary><b>Game won't start / crashes on launch</b></summary>
 Solution:  
-- Run as Administrator  
-- Disable antivirus temporarily (false positive on crack)  
-- Install DirectX and VC++ Redists from `_Redist` folder  
-- Update GPU drivers
+ - Run as Administrator  
+ - Disable antivirus temporarily (false positive on crack)  
+ - Install DirectX and VC++ Redists from `_Redist` folder  
+ - Update GPU drivers
 </details>
 
 <details>
@@ -115,4 +115,33 @@ Solution:
 - Alt+Enter to switch windowed/fullscreen  
 - Delete config file in `%LOCALAPPDATA%\LEGOBatmanLotDK\`  
 - Update GPU drivers
+</details>
+
+<details>
+<summary><b>Controller not working</b></summary>
+Solution:  
+ - Use Xbox 360/Xbox One/PS4/PS5 controller  
+ - Enable Steam Input if running through Steam (optional)  
+ - Try DS4Windows for PlayStation controllers
+</details>
+
+<details>
+<summary><b>Low FPS / stuttering</b></summary>
+Solution:  
+ - Lower shadow quality and anti-aliasing  
+ - Close background apps (Chrome, Discord)  
+ - Ensure you're on SSD, not HDD
+</details>
+
+<details>
+<summary><b>Save game not loading / corrupted</b></summary>
+Solution:  
+ - Disable OneDrive sync for `Documents` folder  
+ - Run game as Administrator  
+ - Back up saves from `%LOCALAPPDATA%\LEGOBatmanLotDK\Saved\`
+</details>
+
+<details>
+<summary><b>Antivirus deleted .exe file</b></summary>
+Solution: Add game folder to antivirus exclusions before extracting. Re-download crack from repack archive if needed.
 </details>
