@@ -65,3 +65,28 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 ---
 
 # ❓ FAQ
+
+<details>
+<summary><b>Is this repack safe to install?</b></summary>
+Yes. Repack by B0sC0 is pre-verified. MD5 checksums match original files. No spyware, no miners, no third-party launchers.
+</details>
+
+<details>
+<summary><b>Do I need Steam installed to play?</b></summary>
+No. The game is fully cracked and pre-installed. Steam is not required.
+</details>
+
+<details>
+<summary><b>Can I play local co-op?</b></summary>
+Yes. Multiplayer/local co-op is fully functional. Connect two controllers or use keyboard + controller.
+</details>
+
+<details>
+<summary><b>Will this work on Windows 11?</b></summary>
+Yes. Fully compatible with Windows 10/11 64-bit.
+</details>
+
+<details>
+<summary><b>Can I select which components to install?</b></summary>
+Yes. Selective download feature is available during setup.
+</details>
