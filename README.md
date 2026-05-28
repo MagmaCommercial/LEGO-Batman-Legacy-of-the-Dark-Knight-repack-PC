@@ -160,6 +160,8 @@ Solution:
 - Ensure enough free space (double the final size temporarily)
 </details>
 
+---
+
 # 🛠 STILL HAVING ISSUES?
 Open an Issue on this repository with:
 
@@ -167,3 +169,11 @@ Open an Issue on this repository with:
 2. GPU model and driver version
 3. RAM and CPU model
 4. Screenshot of error message (if any)
+
+# 📜 Disclaimer
+
+This repack is for educational and testing purposes. All rights belong to the original developers. If you like the game, consider supporting the creators!
+
+<div align="center">
+  <h3>⭐ Star this repo if the repack worked for you! ⭐</h3>
+</div>
