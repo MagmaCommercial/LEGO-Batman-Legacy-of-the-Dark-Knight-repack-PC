@@ -98,6 +98,7 @@ Yes. Selective download feature is available during setup.
 <details>
 <summary><b>Game won't start / crashes on launch</b></summary>
 Solution:  
+ 
  - Run as Administrator  
  - Disable antivirus temporarily (false positive on crack)  
  - Install DirectX and VC++ Redists from `_Redist` folder  
@@ -112,6 +113,7 @@ Solution: Install Visual C++ Redistributables (x64 and x86) from Microsoft offic
 <details>
 <summary><b>Black screen on startup</b></summary>
 Solution:  
+ 
 - Alt+Enter to switch windowed/fullscreen  
 - Delete config file in `%LOCALAPPDATA%\LEGOBatmanLotDK\`  
 - Update GPU drivers
@@ -120,6 +122,7 @@ Solution:
 <details>
 <summary><b>Controller not working</b></summary>
 Solution:  
+ 
  - Use Xbox 360/Xbox One/PS4/PS5 controller  
  - Enable Steam Input if running through Steam (optional)  
  - Try DS4Windows for PlayStation controllers
@@ -128,6 +131,7 @@ Solution:
 <details>
 <summary><b>Low FPS / stuttering</b></summary>
 Solution:  
+ 
  - Lower shadow quality and anti-aliasing  
  - Close background apps (Chrome, Discord)  
  - Ensure you're on SSD, not HDD
@@ -136,6 +140,7 @@ Solution:
 <details>
 <summary><b>Save game not loading / corrupted</b></summary>
 Solution:  
+ 
  - Disable OneDrive sync for `Documents` folder  
  - Run game as Administrator  
  - Back up saves from `%LOCALAPPDATA%\LEGOBatmanLotDK\Saved\`
@@ -145,3 +150,20 @@ Solution:
 <summary><b>Antivirus deleted .exe file</b></summary>
 Solution: Add game folder to antivirus exclusions before extracting. Re-download crack from repack archive if needed.
 </details>
+
+<details>
+<summary><b>Installation stuck at certain percentage</b></summary>
+Solution:  
+ 
+- Disable antivirus during installation  
+- Run installer as Administrator  
+- Ensure enough free space (double the final size temporarily)
+</details>
+
+# 🛠 STILL HAVING ISSUES?
+Open an Issue on this repository with:
+
+1. Windows version (10/11, build number)
+2. GPU model and driver version
+3. RAM and CPU model
+4. Screenshot of error message (if any)
