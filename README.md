@@ -61,3 +61,7 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 - RAM: 16 GB
 - Graphics Card: NVIDIA GeForce GTX 960 / AMD Radeon RX 6400 / Intel Arc A580
 - Hard Drive Space: 40 GB
+
+---
+
+# ❓ FAQ
