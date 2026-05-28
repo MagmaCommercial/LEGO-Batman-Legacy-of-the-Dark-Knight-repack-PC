@@ -21,3 +21,20 @@
 LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the game developed by TT Games and published by Warner Bros. Games. This is not just another installment, but the most ambitious game in the entire LEGO series, reimagining the story of the Dark Knight.
 
 *This version is pre-configured for maximum performance and includes all premium features unlocked from the start.*
+
+---
+
+# 🛠 Repack Features
+
+- Grounded in Steam Edition
+- Lossless Compression without Quality Degradation
+- MD5 Verified: Every File Matches the Original After Installation
+- Feature for Selective Download Available
+- Multiplayer/Local Co-op Functionality Available
+- DLCs and Additional Content Included
+- Quick Setup Procedure
+- Considerably Reduced Archive Size
+- Game Crack Pre-Installed Included
+- Compatible with Windows 10/11 64-Bit
+- Includes DirectX and Visual C++ Redistributables
+- Support for Controllers Included
