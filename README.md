@@ -18,6 +18,6 @@
 
 # 📝 About
 
-*LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the game developed by TT Games and published by Warner Bros. Games. This is not just another installment, but the most ambitious game in the entire LEGO series, reimagining the story of the Dark Knight.*
+LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the game developed by TT Games and published by Warner Bros. Games. This is not just another installment, but the most ambitious game in the entire LEGO series, reimagining the story of the Dark Knight.
 
 *This version is pre-configured for maximum performance and includes all premium features unlocked from the start.*
