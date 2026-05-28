@@ -2,5 +2,18 @@
 
  ## 📌**LEGO-Batman-Legacy-of-the-Dark-Knight-repack [Build.23314029 + DLCs + MULTi16]**
 <div align="center">
-  Repack by B0sC0 | PC | Steam Edition | DLCs | Full Unlocked | Pre-Installed
+  <p>
+    <b>Repack by B0sC0 | PC | Steam Edition | DLCs | Full Unlocked | Pre-Installed
+ </p>
+
+  <p>
+   
+![Windows PC](https://img.shields.io/badge/Windows_PC-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version_2.33-orange?style=for-the-badge)
+![Portable](https://img.shields.io/badge/Portable-green?style=for-the-badge&logo=files&logoColor=white)
+     </p>
 </div>
+
+---
+
+# 📝 About
