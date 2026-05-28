@@ -54,3 +54,10 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 5. Enjoy the game!
 
 ---
+
+# 🛡️ System Requirements
+- Operating System: Windows 10 (64-bit) and above
+- Processor: Intel Core i5-10600K / AMD Ryzen 5 1600
+- RAM: 16 GB
+- Graphics Card: NVIDIA GeForce GTX 960 / AMD Radeon RX 6400 / Intel Arc A580
+- Hard Drive Space: 40 GB
