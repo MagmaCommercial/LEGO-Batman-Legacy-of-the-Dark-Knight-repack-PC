@@ -90,3 +90,29 @@ Yes. Fully compatible with Windows 10/11 64-bit.
 <summary><b>Can I select which components to install?</b></summary>
 Yes. Selective download feature is available during setup.
 </details>
+
+---
+
+# ⚠️ TROUBLESHOOTING
+
+<details>
+<summary><b>Game won't start / crashes on launch</b></summary>
+Solution:  
+- Run as Administrator  
+- Disable antivirus temporarily (false positive on crack)  
+- Install DirectX and VC++ Redists from `_Redist` folder  
+- Update GPU drivers
+</details>
+
+<details>
+<summary><b>Missing .DLL error (e.g., xinput1_3.dll, MSVCP140.dll)</b></summary>
+Solution: Install Visual C++ Redistributables (x64 and x86) from Microsoft official site or `_Redist` folder.
+</details>
+
+<details>
+<summary><b>Black screen on startup</b></summary>
+Solution:  
+- Alt+Enter to switch windowed/fullscreen  
+- Delete config file in `%LOCALAPPDATA%\LEGOBatmanLotDK\`  
+- Update GPU drivers
+</details>
