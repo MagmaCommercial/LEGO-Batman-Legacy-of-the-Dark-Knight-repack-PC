@@ -38,3 +38,11 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 - Compatible with Windows 10/11 64-Bit
 - Includes DirectX and Visual C++ Redistributables
 - Support for Controllers Included
+
+---
+
+# 📥 Download [CLICK]
+
+---
+
+# 📦  How to Install & Play
