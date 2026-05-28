@@ -46,3 +46,4 @@ LEGO Batman: Legacy of the Dark Knight is the official repack by B0sC0 of the ga
 ---
 
 # 📦  How to Install & Play
+1. **Download** the archive from the releases
